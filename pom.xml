@@ -171,6 +171,7 @@
     <module>ph-ubl22-codelists</module>
     <module>ph-ubltr</module>
     <module>ph-ublpe</module>
+    <module>ph-ublpe21</module>
   </modules>
   
   <build>
